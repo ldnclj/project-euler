@@ -1,6 +1,6 @@
 (ns project-euler.core)
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+(defn format-solution
+  "Format solution with time taken."
+  [n solution]
+  (println (format "The solution to probelm %d => %15d" n solution)))

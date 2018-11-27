@@ -1,2 +1,2 @@
 # project-euler
-All the work for project euler done in the dojo
+All the work for [Project Euler](https://projecteuler.net) done in the dojo.
