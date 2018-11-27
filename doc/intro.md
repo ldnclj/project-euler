@@ -1,3 +1,5 @@
 # Introduction to project-euler
 
-TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
+# Layout
+Work for solving the problems goes in `core.clj`.
+Helper functions which look more general are moved to a suitable other namespace
